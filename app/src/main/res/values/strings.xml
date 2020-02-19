@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BabyNeed</string>
+    <string name="action_settings">Settings</string>
+    <string name="are_you_sure">Are You Sure??</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+    <string name="edit_item">Edit Item</string>
+</resources>
